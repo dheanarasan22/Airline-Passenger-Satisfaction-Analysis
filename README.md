@@ -4,13 +4,21 @@
 This project analyzes airline passenger satisfaction
 using Python and data visualization techniques.
 
+## Dataset Source
+The dataset is obtained from Kaggle.
+
+**Dataset Name:** Airline Passenger Satisfaction
+
+**Source:** Kaggle
+
+**Dataset Link:** 
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
 ## Objectives
 - Analyze passenger satisfaction levels
 - Compare satisfaction by gender
 - Analyze customer loyalty
 - Compare satisfaction across travel classes
-- Explore age and flight distance distributions
-- Identify areas for service improvement
 
 ## Tools & Technologies
 - Python
@@ -23,14 +31,8 @@ using Python and data visualization techniques.
 ## Key Findings
 - More than half of passengers were neutral or dissatisfied.
 - Loyal customers showed higher satisfaction.
-- Business Class passengers had higher satisfaction.
-- Gender differences in satisfaction were relatively small.
+- Business Class passengers showed higher satisfaction.
 
 ## Conclusion
-The analysis highlights the importance of customer loyalty
-and travel class in passenger satisfaction. Improving airline
-services, especially in Economy Class, may improve customer
-satisfaction.
-
-## Dataset
-Airline Passenger Satisfaction Dataset
+Improving airline service quality can increase
+passenger satisfaction and customer loyalty.
